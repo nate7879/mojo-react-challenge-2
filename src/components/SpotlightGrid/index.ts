@@ -1,0 +1,1 @@
+export { SpotlightGrid } from './SpotlightGrid';

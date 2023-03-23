@@ -1,0 +1,1 @@
+export { SpotlightArticle } from './SpotlightArticle';

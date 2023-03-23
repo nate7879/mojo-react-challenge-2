@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+}
+
+@font-face {
+	font-family: 'Futura Bk BT';
+	src: local('FuturaBTBook'), url('../public/fonts/FuturaBT-Book.woff2');
+}
+
+@font-face {
+	font-family: 'Futura XBlk BT';
+	src: local('FuturaBTExtraBlack'), url('../public/fonts/FuturaBT-ExtraBlack.woff2');
+}
+
+@font-face {
+	font-family: 'Futura MdCn BT';
+	src: local('FuturaBTMediumCondensed'), url('../public/fonts/FuturaBT-MediumCondensed.woff2');
+}
+
+@font-face {
+	font-family: 'New York Extra Large';
+	src: local('NewYorkExtraLargeRegular'), url('../public/fonts/NewYorkExtraLarge-Regular.woff2');
+}
